@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f212abff-2257-445f-a3b9-d58ea6e04278" name="Changes" comment="fourth-exercise">
-      <change afterPath="$PROJECT_DIR$/src/es4/Esercizio4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es3/Esercizio3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +33,9 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2dGejfyxhoI5AnrgzveMudFzAhE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,6 +44,7 @@
   "keyToString": {
     "Application.Esercizio1.executor": "Run",
     "Application.Esercizio2.executor": "Run",
+    "Application.Esercizio3.executor": "Run",
     "Application.Esercizio4.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -50,7 +54,7 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Esercizio4">
+  <component name="RunManager" selected="Application.Esercizio3">
     <configuration name="Esercizio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="es1.Esercizio1" />
       <module name="UN4-W1-d2-pratica-S1-L2" />
@@ -77,6 +81,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Esercizio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="es3.Esercizio3" />
+      <module name="UN4-W1-d2-pratica-S1-L2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Esercizio4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="es4.Esercizio4" />
       <module name="UN4-W1-d2-pratica-S1-L2" />
@@ -92,6 +109,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Esercizio3" />
         <item itemvalue="Application.Esercizio4" />
         <item itemvalue="Application.Esercizio2" />
         <item itemvalue="Application.Esercizio1" />
@@ -130,12 +148,21 @@
       <option name="project" value="LOCAL" />
       <updated>1709651216447</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fourth-exercise">
+      <option name="closed" value="true" />
+      <created>1709652137963</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709652137963</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first exercise" />
     <MESSAGE value="second-exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="second-exercise" />
+    <MESSAGE value="fourth-exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="fourth-exercise" />
   </component>
 </project>
